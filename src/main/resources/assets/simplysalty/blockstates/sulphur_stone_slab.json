@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "simplysalty:block/sulphur_stone_slab" },
+        "type=top": { "model": "simplysalty:block/sulphur_stone_slab_top" },
+        "type=double": { "model": "simplysalty:block/sulphur_stone" }
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "simplysalty:salted_mutton"
+  },
+  "result": "simplysalty:jerky_mutton",
+  "experience": 0.35,
+  "cookingtime": 100
+}

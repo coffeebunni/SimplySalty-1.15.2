@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "simplysalty:blocks/fertile_soil"
+    }
+}

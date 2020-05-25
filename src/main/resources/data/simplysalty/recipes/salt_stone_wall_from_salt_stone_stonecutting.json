@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "simplysalty:salt_stone"
+  },
+  "result": "simplysalty:salt_stone_wall",
+  "count": 1
+}

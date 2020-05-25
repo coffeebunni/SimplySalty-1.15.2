@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "simplysalty:sulphur_stone"
+  },
+  "result": "simplysalty:sulphur_stone_stairs",
+  "count": 1
+}

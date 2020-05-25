@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "simplysalty:sulphur_stone"
+    }
+  },
+  "result": {
+    "item": "simplysalty:sulphur_stone_wall",
+    "count": 6
+  }
+}

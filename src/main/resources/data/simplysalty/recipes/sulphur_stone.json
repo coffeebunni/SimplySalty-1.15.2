@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "simplysalty:sulphur_block"
+    }
+  },
+  "result": {
+    "item": "simplysalty:sulphur_stone"
+  }
+}

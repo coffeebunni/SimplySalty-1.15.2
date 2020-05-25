@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "simplysalty:salt_block"
+    }
+  },
+  "result": {
+    "item": "simplysalty:salt_stone"
+  }
+}

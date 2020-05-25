@@ -1,0 +1,60 @@
+{
+	#Items
+	"item.simplysalty.salt_ore": "Salt Ore",
+	"item.simplysalty.salt": "Salt",
+	"item.simplysalty.salt_block": "Salt Block",
+	"item.simplysalty.salt_stone": "Salt Stone",
+	"item.simplysalty.salt_stone_slab": "Salt Stone Slab",
+	"item.simplysalty.salt_stone_stairs": "Salt Stone Stairs",
+	"item.simplysalty.salt_stone_wall": "Salt Stone Wall",
+	
+	"item.simplysalty.sulphur_ore": "Sulphur Ore",
+	"item.simplysalty.sulphur": "Sulphur",
+	"item.simplysalty.sulphur_chunk": "Sulphur Chunk",
+	"item.simplysalty.sulphur_block": "Sulphur Block",
+	"item.simplysalty.sulphur_stone": "Sulphur Stone",
+	"item.simplysalty.sulphur_stone_slab": "Sulphur Stone Slab",
+	"item.simplysalty.sulphur_stone_stairs": "Sulphur Stone Stairs",
+	"item.simplysalty.sulphur_stone_wall": "Sulphur Stone Wall",
+	"item.simplysalty.sulphur_lantern": "Sulphur Lantern",
+	
+	"item.simplysalty.fertile_soil": "Fertile Soil",
+	
+	"item.simplysalty.salted_chicken": "Salted Chicken",
+	"item.simplysalty.salted_beef": "Salted Beef",
+	"item.simplysalty.salted_mutton": "Salted Mutton",
+	"item.simplysalty.salted_pork": "Salted Pork",
+	"item.simplysalty.salted_rabbit": "Salted Rabbit",
+	"item.simplysalty.salted_cod": "Salted Cod",
+	"item.simplysalty.salted_salmon": "Salted Salmon",
+	
+	"item.simplysalty.jerky_chicken": "Chicken Jerky",
+	"item.simplysalty.jerky_beef": "Beef Jerky",
+	"item.simplysalty.jerky_mutton": "Mutton Jerky",
+	"item.simplysalty.jerky_pork": "Pork Jerky",
+	"item.simplysalty.jerky_rabbit": "Rabbit Jerky",
+	"item.simplysalty.jerky_cod": "Cod Jerky",
+	"item.simplysalty.jerky_salmon": "Salmon Jerky",
+	
+	
+	#Blocks
+	"block.simplysalty.salt_ore": "Salt Ore",
+	"block.simplysalty.salt_block": "Salt Block",
+	"block.simplysalty.salt_stone": "Salt Stone",
+	"block.simplysalty.salt_stone_slab": "Salt Stone Slab",
+	"block.simplysalty.salt_stone_stairs": "Salt Stone Stairs",
+	"block.simplysalty.salt_stone_wall": "Salt Stone Wall",
+	
+	"block.simplysalty.sulphur_ore": "Sulphur Ore",
+	"block.simplysalty.sulphur_block": "Sulphur Block",
+	"block.simplysalty.sulphur_stone": "Sulphur Stone",
+	"block.simplysalty.sulphur_stone_slab": "Sulphur Stone Slab",
+	"block.simplysalty.sulphur_stone_stairs": "Sulphur Stone Stairs",
+	"block.simplysalty.sulphur_stone_wall": "Sulphur Stone Wall",
+	"block.simplysalty.sulphur_lantern": "Sulphur Lantern",
+	
+	"block.simplysalty.fertile_soil": "Fertile Soil",
+	
+	#Creative Tab
+	"itemGroup.simplysalty": "Simply Salty"
+}	

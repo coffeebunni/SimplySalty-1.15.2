@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "simplysalty:salted_beef"
+  },
+  "result": "simplysalty:jerky_beef",
+  "experience": 0.35,
+  "cookingtime": 100
+}

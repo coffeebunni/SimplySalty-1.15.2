@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "simplysalty:salt"
+    },
+    "X": {
+      "item": "minecraft:porkchop"
+    }
+  },
+  "result": {
+    "item": "simplysalty:salted_pork"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "simplysalty:block/salt_stone_slab" },
+        "type=top": { "model": "simplysalty:block/salt_stone_slab_top" },
+        "type=double": { "model": "simplysalty:block/salt_stone" }
+    }
+}

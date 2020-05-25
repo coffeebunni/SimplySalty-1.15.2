@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "simplysalty:sulphur_block"
+    }
+  ],
+  "result": {
+    "item": "simplysalty:sulphur",
+    "count": 9
+  }
+}
