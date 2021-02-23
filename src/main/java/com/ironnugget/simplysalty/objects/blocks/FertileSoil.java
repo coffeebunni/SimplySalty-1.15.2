@@ -6,6 +6,7 @@ import net.minecraft.util.Direction;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.IBlockReader;
 import net.minecraft.world.World;
+import net.minecraftforge.common.PlantType;
 
 public class FertileSoil extends Block {
 
@@ -21,17 +22,19 @@ public class FertileSoil extends Block {
 	public boolean canSustainPlant(BlockState state, IBlockReader world, BlockPos pos, Direction direction,
 			net.minecraftforge.common.IPlantable plantable) {
 		//IBlockState plant = plantable.getPlant(world, pos.offset(direction));
-        net.minecraftforge.common.PlantType plantType = plantable.getPlantType(world, pos.offset(direction));
-		switch (plantType) {
-            case Desert: return true;
-            case Nether: return false;
-            case Crop:   return true;
-            case Cave:   return true;
-            case Plains: return true;
-            case Water:  return false;
-            case Beach:  return true;
+        PlantType plantType = plantable.getPlantType(world, pos.offset(direction));
+        
+		if((plantType == PlantType.NETHER) || (plantType == PlantType.WATER)) {
+        	
+        	return false;
+        	
         }
-		return super.canSustainPlant(state, world, pos, direction, plantable);
+        else {
+        	
+        	return true;
+        	
+        }
+		
 	}
 
 }
